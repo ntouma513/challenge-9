@@ -7,7 +7,7 @@
 ### You will need to ensure node.js is installed. This can be done by running 'node -v' in your terminal. Once confirmed that node.js is installed, you will need to also ensure the inquirer package is installed in order to prompt this application. 
 
 ## How to's
-### Once in the terminal after the install of the inquirer package and running the node.js file, you will 
+### Once in the terminal after the install of the inquirer package and running the node.js file, you will then follow the prompts to create the actual README file. The generateMarkdown.js file  contains the logic to create the README content based on the user input. The index.js file will handle the user input and is what is displayed in the terminal as the prompt questions.
 
 ## Contributions
 ### Multiple resources were used to assist with creating the code to create this.
